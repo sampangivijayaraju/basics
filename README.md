@@ -1,2 +1,2 @@
 # basics
-learning hoe to use github
+learning how to use github
